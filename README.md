@@ -1,4 +1,6 @@
 # ProjetoFinalPOO
+Aluna Calina Evelly Oliveira da Silva
+
 O Projeto Final da disciplina de Programação Orientada a Objetos tem como objetivo desenvolver um projeto que permita demonstrar o conteúdo
 visto na disciplina. O tópico escolhido por mim foi Gravadoras Musicais e os Cantores contratados por elas. Tema que permite abordar todos os pilares e características fundamentais da POO, como herança, polimorfismo, encapsulamento e etc. 
 
